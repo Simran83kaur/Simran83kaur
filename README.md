@@ -27,9 +27,11 @@
 
 ### 🏠 House Price Prediction
 Built a Linear Regression model to predict house prices based on features.
+🔗 [View Project](https://github.com/Simran83kaur/House-price-prediction)
 
 ### 🎓 Placement Prediction ML
 Created a machine learning model to predict student placements.
+🔗 [View Project](https://github.com/Simran83kaur/Placement-Prediction-ML)
 
 ### 📊 EduPro Data Analysis Project (Ongoing)
 Analyzing student and course data to generate insights and visualizations.
