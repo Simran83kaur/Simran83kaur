@@ -1,32 +1,35 @@
 # Hi 👋 I'm Simranjeet Kaur
 
 🎓 Computer Science Student  
-📊 Interested in Data Analytics & Machine Learning  
-💻 Building real-world projects using Python  
+📊 Interested in Data Analyst & Machine Learning Enthusiast  
+💻 Building real-world projects using Python
+📍 India
 
 ---
 
-## 🛠 Skills
-- Python
-- Pandas
-- NumPy
-- Data Visualization (Matplotlib)
+## 🛠 Technical Skills
+
+**Programming:**  
+- Python  
+
+**Libraries:**  
+- Pandas  
+- NumPy  
+- Matplotlib  
+
+**Concepts:**  
+- Data Analysis  
 - Basic Machine Learning
 
 ---
 
 ## 🚀 Projects
-- 🏠 House Price Prediction (Linear Regression)
-- 🎓 Placement Prediction ML
-- 📊 EduPro Data Analysis Project (Currently Working)
 
----
+### 🏠 House Price Prediction
+Built a Linear Regression model to predict house prices based on features.
 
-## 🌱 Currently Learning
-- Data Analysis
-- Machine Learning Concepts
-- Improving problem-solving skills
+### 🎓 Placement Prediction ML
+Created a machine learning model to predict student placements.
 
----
-
-📫 Connect with me on LinkedIn
+### 📊 EduPro Data Analysis Project (Ongoing)
+Analyzing student and course data to generate insights and visualizations.
